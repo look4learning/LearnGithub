@@ -1,1 +1,2 @@
-#big [hr]big[/hr]
+#big 
+[hr][/hr]
